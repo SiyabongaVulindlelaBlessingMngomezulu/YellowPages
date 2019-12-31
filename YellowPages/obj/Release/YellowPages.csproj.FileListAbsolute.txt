@@ -1,0 +1,11 @@
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\bin\Release\YellowPages.exe.config
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\bin\Release\YellowPages.exe
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\bin\Release\YellowPages.pdb
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\obj\Release\YellowPages.csprojAssemblyReference.cache
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\obj\Release\YellowPages.AddEntry.resources
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\obj\Release\YellowPages.EntryList.resources
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\obj\Release\YellowPages.MainForm.resources
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\obj\Release\YellowPages.Properties.Resources.resources
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\obj\Release\YellowPages.csproj.GenerateResource.cache
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\obj\Release\YellowPages.exe
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\obj\Release\YellowPages.pdb

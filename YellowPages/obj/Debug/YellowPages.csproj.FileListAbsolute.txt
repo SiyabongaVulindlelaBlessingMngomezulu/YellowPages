@@ -1,0 +1,21 @@
+d:\users\108621\my documents\visual studio 2013\Projects\YellowPages\YellowPages\bin\Debug\YellowPages.exe.config
+d:\users\108621\my documents\visual studio 2013\Projects\YellowPages\YellowPages\bin\Debug\YellowPages.exe
+d:\users\108621\my documents\visual studio 2013\Projects\YellowPages\YellowPages\bin\Debug\YellowPages.pdb
+d:\users\108621\my documents\visual studio 2013\Projects\YellowPages\YellowPages\obj\Debug\YellowPages.Properties.Resources.resources
+d:\users\108621\my documents\visual studio 2013\Projects\YellowPages\YellowPages\obj\Debug\YellowPages.csproj.GenerateResource.Cache
+d:\users\108621\my documents\visual studio 2013\Projects\YellowPages\YellowPages\obj\Debug\YellowPages.exe
+d:\users\108621\my documents\visual studio 2013\Projects\YellowPages\YellowPages\obj\Debug\YellowPages.pdb
+D:\Users\108621\My Documents\Visual Studio 2013\Projects\YellowPages\YellowPages\obj\Debug\YellowPages.AddEntry.resources
+D:\Users\108621\My Documents\Visual Studio 2013\Projects\YellowPages\YellowPages\obj\Debug\YellowPages.EntryList.resources
+D:\Users\108621\My Documents\Visual Studio 2013\Projects\YellowPages\YellowPages\obj\Debug\YellowPages.MainForm.resources
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\bin\Debug\YellowPages.exe.config
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\bin\Debug\YellowPages.exe
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\bin\Debug\YellowPages.pdb
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\obj\Debug\YellowPages.AddEntry.resources
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\obj\Debug\YellowPages.EntryList.resources
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\obj\Debug\YellowPages.MainForm.resources
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\obj\Debug\YellowPages.Properties.Resources.resources
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\obj\Debug\YellowPages.csproj.GenerateResource.cache
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\obj\Debug\YellowPages.exe
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\obj\Debug\YellowPages.pdb
+C:\Users\pcoooi\Desktop\Projects\YellowPages\YellowPages\obj\Debug\YellowPages.csprojAssemblyReference.cache
